@@ -1,9 +1,9 @@
 - 👋 Hi, I’m AndyZ59, an electronic engineer in Germany who just started the Early Retirement phase (Altersteilzeit).
 - 👀 I’m still full of energy and interested in different softwarejobs where i can dig in, preferring PYTHON.
 - 🌱 I’ve been working as certification manager for power supplies in collaboration with worldwide agencies to get various safety certificates.
-- 💞️ I’m looking to collaborate on serious amall and medium size projects in hard- and software.
+- 💞️ I’m looking to collaborate on serious small and medium size projects in hard- and software.
 - 📫 How to reach me --> EDV-Zschumme@gmx.de
-your reply will be well apreciated :)
+-your reply will be well apreciated :)
 thanks
 Andy
 
